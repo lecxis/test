@@ -15,11 +15,11 @@
     background-position-x:center;   
 }
 .vid{
-    border: 2px solid red;
-    width: 40%;
-    height: auto;
-    padding: 10px;
+    border: 2px solid blue;
     text-align:center;
+    width: 90%;
+    margin-left:auto;
+    margin-right:auto;
 }
 header{
     display:flex;
